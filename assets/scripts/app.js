@@ -2,7 +2,7 @@ const students = [
     ["ANDRIAMANANTSOA Herilanto Tsitohaina Rasamoelina", "lien"],
     ["ANDRIARINAIVO Riana Fenosoa", "lien"],
     ["HARENA Antenaina Lucka", "lien"],
-    ["HARINASANDRATRA Lahatra Fitiavana", "lien"],
+    ["HARINASANDRATRA Lahatra Fitiavana", "https://harinasandratra.github.io/cv2.html"],
     ["RABEASY Tojoniaina Angelo", "lien"],
     ["RAFALIMANANA Fanomezantsoa Michaël", "lien"],
     ["RAFIDY Julie Tassia", "lien"],
