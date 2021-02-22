@@ -14,7 +14,7 @@ const students = [
     ["RAMAROSON Aromanda Mitantsoa", "https://aro20.github.io/"],
     ["RANAIVOSOA Gérald Rindra", "lien"],
     ["RANDRIA Aina Nirina", "https://ainanirina.github.io/CV/"],
-    ["RANDRIAMASY Heriniaina", "lien"],
+    ["RANDRIAMASY Heriniaina", "https://nyainah.github.io/"],
     ["RANDRIAMIHAJA Harivola", "https://harry-anthony.github.io/CV/"],
     ["RANDRIANARISOA Nantenaina Parfait Kévin", "lien"],
     ["RASOANOMENJANAHARY Alphonsine", "https://alphonsine3434.github.io/"],
@@ -29,5 +29,9 @@ const students = [
 const list = document.querySelector('main ul');
 
 students.forEach(student => {
-    list.innerHTML += `<li>${student[0]}<a ${student[1] === "lien" ? `class="disabled"` : null } href="${student[1]}"><i class="gg-eye"></i></a></li>`
+    const className = student[1] === "lien" ? `class="disabled"` : null;
+    list.innerHTML += `<li>
+        ${student[0]}<a ${className} href="${student[1]}" target="_blank">
+        <i class="gg-eye"></i></a>
+    </li>`
 })
