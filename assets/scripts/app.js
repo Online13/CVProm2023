@@ -29,5 +29,5 @@ const students = [
 const list = document.querySelector('main ul');
 
 students.forEach(student => {
-    list.innerHTML += `<li>${student[0]}<a ${student[1] === "lien" ? `class="disabled"` : null } href="${student[1]}"><i class="gg-eye"></i></a></li>`
+    list.innerHTML += `<li>${student[0]}<a ${student[1] === "lien" ? `class="disabled"` : null } href="${student[1]}" target="_blank"><i class="gg-eye"></i></a></li>`
 })
