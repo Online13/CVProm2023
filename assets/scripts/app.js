@@ -10,7 +10,7 @@ const students = [
     ["RAKOTONIAINA Ihantakolointsoa Tamby Vetsonandrandraina", "lien"],
     ["RAMANANJANAHARY Andy Astier", "lien"],
     ["RAMANDRIJOEL Jehovanie", "lien"],
-    ["RAMAROKOTO Mirindra Toavina Nancy", "lien"],
+    ["RAMAROKOTO Mirindra Toavina Nancy", "https://mirindra31.github.io/"],
     ["RAMAROSON Aromanda Mitantsoa", "https://aro20.github.io/"],
     ["RANAIVOSOA Gérald Rindra", "https://rindra33.github.io/cv/"],
     ["RANDRIA Aina Nirina", "https://ainanirina.github.io/CV/"],
@@ -21,7 +21,7 @@ const students = [
     ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "lien"],
     ["RATEFIARISON Harivony Lalatiana", "http://tensoreleven.github.io/"],
     ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
-    ["RATSIMA Niaina Fredson Dorel", "lien"],
+    ["RATSIMA Niaina Fredson Dorel", "https://niainadorel.github.io/"],
     ["RAZANAJATOVO Njato Iavoko", "https://njato2001.github.io/CV/"],
     ["RATOVONIAINA Tsilavo Fitiavana", "https://harry-anthony.github.io/CV/"],
 ];
