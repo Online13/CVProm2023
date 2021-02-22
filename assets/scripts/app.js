@@ -22,7 +22,7 @@ const students = [
     ["RATEFIARISON Harivony Lalatiana", "lien"],
     ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
     ["RATSIMA Niaina Fredson Dorel", "lien"],
-    ["RAZANAJATOVO Njato Iavoko", "lien"],
+    ["RAZANAJATOVO Njato Iavoko", "https://njato2001.github.io/CV/"],
     ["RATOVONIAINA Tsilavo Fitiavana", "https://harry-anthony.github.io/CV/"],
 ];
 
