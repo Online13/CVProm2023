@@ -20,7 +20,7 @@ const students = [
     ["RASOANOMENJANAHARY Alphonsine", "lien"],
     ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "lien"],
     ["RATEFIARISON Harivony Lalatiana", "lien"],
-    ["RATIARIVELO Nekena Rayane", "lien"],
+    ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
     ["RATSIMA Niaina Fredson Dorel", "lien"],
     ["RAZANAJATOVO Njato Iavoko", "lien"],
     ["RATOVONIAINA Tsilavo Fitiavana", "lien"],
