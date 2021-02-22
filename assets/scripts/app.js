@@ -16,9 +16,9 @@ const students = [
     ["RANDRIA Aina Nirina", "https://ainanirina.github.io/CV/"],
     ["RANDRIAMASY Heriniaina", "https://nyainah.github.io/"],
     ["RANDRIAMIHAJA Harivola", "https://harry-anthony.github.io/CV/"],
-    ["RANDRIANARISOA Nantenaina Parfait Kévin", "lien"],
+    ["RANDRIANARISOA Nantenaina Parfait Kévin", "-"],
     ["RASOANOMENJANAHARY Alphonsine", "https://alphonsine3434.github.io/"],
-    ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "lien"],
+    ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "-"],
     ["RATEFIARISON Harivony Lalatiana", "http://tensoreleven.github.io/"],
     ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
     ["RATSIMA Niaina Fredson Dorel", "https://niainadorel.github.io/"],
@@ -28,10 +28,16 @@ const students = [
 
 const list = document.querySelector('main ul');
 
-students.forEach(student => {
-    const className = student[1] === "lien" ? `class="disabled"` : null;
-    list.innerHTML += `<li>
-        ${student[0]}<a ${className} href="${student[1]}" target="_blank">
-        <i class="gg-eye"></i></a>
+function ItemComponent(student) {
+    const className = student[1] === "-" ? `class="disabled"` : null;
+    return `<li ${className}>
+        ${student[0]}
+        <a href="${student[1]}" target="_blank">
+            <img id="f" title="visiter ?" alt="f" src="./assets/images/forward.png" />
+        </a>
     </li>`
+}
+
+students.forEach(student => {
+    list.innerHTML += ItemComponent(student);
 })
