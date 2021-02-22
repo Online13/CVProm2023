@@ -12,7 +12,7 @@ const students = [
     ["RAMANDRIJOEL Jehovanie", "lien"],
     ["RAMAROKOTO Mirindra Toavina Nancy", "lien"],
     ["RAMAROSON Aromanda Mitantsoa", "https://aro20.github.io/"],
-    ["RANAIVOSOA Gérald Rindra", "lien"],
+    ["RANAIVOSOA Gérald Rindra", "https://rindra33.github.io/cv/"],
     ["RANDRIA Aina Nirina", "https://ainanirina.github.io/CV/"],
     ["RANDRIAMASY Heriniaina", "https://nyainah.github.io/"],
     ["RANDRIAMIHAJA Harivola", "https://harry-anthony.github.io/CV/"],
