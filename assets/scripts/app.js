@@ -8,7 +8,7 @@ const students = [
     ["RAFIDY Julie Tassia", "https://aissat99.github.io/cv/"],
     ["RAKOTOBE Manoella", "https://rmanoella.github.io/cv2.html"],
     ["RAKOTONIAINA Ihantakolointsoa Tamby Vetsonandrandraina", "lien"],
-    ["RAMANANJANAHARY Andy Astier", "lien"],
+    ["RAMANANJANAHARY Andy Astier", "https://4ndy4stier.github.io/"],
     ["RAMANDRIJOEL Jehovanie", "lien"],
     ["RAMAROKOTO Mirindra Toavina Nancy", "https://mirindra31.github.io/"],
     ["RAMAROSON Aromanda Mitantsoa", "https://aro20.github.io/"],
