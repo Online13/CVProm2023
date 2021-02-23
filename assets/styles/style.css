@@ -48,7 +48,9 @@ ul {
     list-style: none;
     border-radius: 8px;
     margin-bottom: 22px;
-    border: 1px solid rgba(129, 129, 129, 0.418);
+    border: 1px solid rgba(129, 129, 129, 0.418);   
+    animation: appear 1s;
+    margin: auto;
 }
 
 @keyframes appear {
@@ -56,12 +58,12 @@ ul {
 }
 
 li {
+    animation: appear 1s;
     width: 100%;
     max-width: 630px;
     padding: 15px 22px;
     margin: 0;
     position: relative;
-    animation: appear 1s;
     display: flex;
     align-items: center;
     transition: .3s;

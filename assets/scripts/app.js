@@ -18,7 +18,7 @@ const students = [
     ["RANDRIAMIHAJA Harivola", "https://harry-anthony.github.io/CV/"],
     ["RANDRIANARISOA Nantenaina Parfait Kévin", "-"],
     ["RASOANOMENJANAHARY Alphonsine", "https://alphonsine3434.github.io/"],
-    ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "-"],
+    ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "https://tsilaallaoui.github.io/"],
     ["RATEFIARISON Harivony Lalatiana", "http://tensoreleven.github.io/"],
     ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
     ["RATSIMA Niaina Fredson Dorel", "https://niainadorel.github.io/"],
