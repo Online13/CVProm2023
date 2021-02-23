@@ -23,7 +23,7 @@ const students = [
     ["RATIARIVELO Nekena Rayane", "https://online13.github.io/"],
     ["RATSIMA Niaina Fredson Dorel", "https://niainadorel.github.io/"],
     ["RAZANAJATOVO Njato Iavoko", "https://njato2001.github.io/CV/"],
-    ["RATOVONIAINA Tsilavo Fitiavana", "https://harry-anthony.github.io/CV/"],
+    ["RATOVONIAINA Tsilavo Fitiavana", "https://tsilavofity.github.io/"],
 ];
 
 const list = document.querySelector('main ul');
