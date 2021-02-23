@@ -16,7 +16,7 @@ const students = [
     ["RANDRIA Aina Nirina", "https://ainanirina.github.io/CV/"],
     ["RANDRIAMASY Heriniaina", "https://nyainah.github.io/"],
     ["RANDRIAMIHAJA Harivola", "https://harry-anthony.github.io/CV/"],
-    ["RANDRIANARISOA Nantenaina Parfait Kévin", "-"],
+    ["RANDRIANARISOA Nantenaina Parfait Kévin", "https://kev-perf.github.io/MonCV.html"],
     ["RASOANOMENJANAHARY Alphonsine", "https://alphonsine3434.github.io/"],
     ["RASOLO ALLAOUI Tsilavo Maminiaina Manatombo", "https://tsilaallaoui.github.io/"],
     ["RATEFIARISON Harivony Lalatiana", "http://tensoreleven.github.io/"],
